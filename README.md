@@ -2,17 +2,6 @@
 
 ![Logo_Blanco](https://github.com/andersonjalvarado/MiMoQ/assets/98665908/f94dd451-95f5-4046-ab38-5488bc19c824)<?xml version="1.0" encoding="UTF-8"?>
 <svg id="Trazado" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1953.14 1080">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fafafa;
-      }
-
-      .cls-2 {
-        fill: #2196f3;
-      }
-    </style>
-  </defs>
   <g>
     <polygon class="cls-1" points="68.36 301.42 67.93 711.56 142.07 711.56 142.07 527.27 235.07 659.27 248.36 659.7 340.5 524.7 340.5 711.56 413.36 711.56 413.36 297.13 240.64 480.34 68.36 301.42"/>
     <polygon class="cls-1" points="483.86 711.56 552.43 711.56 552.86 407 483.86 407 483.86 711.56"/>
